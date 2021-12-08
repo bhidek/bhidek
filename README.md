@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhidek
 - 👀 I’m interested in bioinformatics data analysis
-- 🌱 I’m currently learning single-cell analysis, spatial analysis, multi-omics analysis, nextflow. Continuous learning is very critical.
+- 🌱 I’m currently learning single-cell analysis, multi-omics analysis, nextflow.
 - 📫 How to reach me k2bhide@gmail.com
 
 <!---
